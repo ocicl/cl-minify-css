@@ -1,0 +1,9 @@
+* cl-minify-css
+
+To minify css with common lisp.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/noloop/cl-minify-css.git |
+| commit  | 30edc35                                         |
+| systems | cl-minify-css                                   |
+|---------+-------------------------------------------------|
