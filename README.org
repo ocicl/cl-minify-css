@@ -7,3 +7,4 @@ To minify css with common lisp.
 | commit  | 30edc35                                         |
 | systems | cl-minify-css                                   |
 |---------+-------------------------------------------------|
+ 
